@@ -482,7 +482,7 @@ cv2_imshow(img)
 
 
     
-![png](Sign_Language_Detection_using_YoloV8_and_Vision_Transformer_files/Sign_Language_Detection_using_YoloV8_and_Vision_Transformer_25_0.png)
+![png](Sign_Language_Detection_using_YoloV8_and_Vision_Transformer_25_0.png)
     
 
 
@@ -1147,7 +1147,7 @@ pred_and_plot_image(model=pretrained_vit,
 
 
     
-![png](Sign_Language_Detection_using_YoloV8_and_Vision_Transformer_files/Sign_Language_Detection_using_YoloV8_and_Vision_Transformer_40_1.png)
+![png](Sign_Language_Detection_using_YoloV8_and_Vision_Transformer_40_1.png)
     
 
 
