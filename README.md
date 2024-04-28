@@ -4,6 +4,8 @@ Final Submission of Deep Learning Course
 Link to the Google Colab: 
 https://colab.research.google.com/drive/1N0tymtl9m3gNcg8ZGc6cadC-0diIUjq6#scrollTo=lFEY4hkThYI3
 
+Refer document [a href](https://github.com/iambikash/Sign_Language_detection_using_yolo_and_vit/blob/main/Comparative%20Analysis%20of%20YOLOv8%20and%20Vision%20Transformer%20for%20Sign%20Language%20Detection.pdf)
+
 #**Importing the Required Libraries**
 
 
